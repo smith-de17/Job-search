@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  background-color: #f4f7fb;
+  color: #17324d;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  padding: 15px;
+  background-color: #17324d;
+  border-bottom: 4px solid #f2b544;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  margin: 0 12px;
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  width: 85%;
+  margin: 25px auto;
+}
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #c9d9e8;
+  border-radius: 8px;
+  background-color: white;
+}
+
+#intro {
+  border-left: 5px solid #f2b544;
+}
+
+h1,
+h2,
+h3 {
+  color: #17324d;
+}
+
+.skill-card {
+  margin: 12px 0;
+  padding: 12px;
+  border: 1px solid #c9d9e8;
+  border-left: 4px solid #3c7894;
+  background-color: #f4f7fb;
+}
+
+figure {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #c9d9e8;
+  background-color: white;
+}
+
+figure img {
+  width: 100%;
+}
+
+figcaption {
+  padding-top: 8px;
+}
+
+footer {
+  padding: 15px;
+  border-top: 4px solid #f2b544;
+  background-color: #17324d;
+  color: white;
+  text-align: center;
+}
